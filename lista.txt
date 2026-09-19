@@ -1,5 +1,9 @@
 # Lista de lectura 2026
 1. Cien años de soledad — Gabriel García Márquez ★★★★★
 2. Rayuela - Julio cortazar (aviso: estructura no lineal, cuidado)
+<<<<<<< HEAD
 3. Ficciones - Jorge Luis Borges (pepe)
+=======
+3. Ficciones - Jorge Luis Borges(holaa)
+>>>>>>> 06f13d7dce64c6764a0a44c513eeac31c143a3c7
 4. Don quijote de la mancha - Miguel de cervantes
